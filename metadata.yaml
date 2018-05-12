@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39220
     wikipedia: http://en.wikipedia.org/wiki/Ednah_Dow_Littlehale_Cheney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38049#Louisa-May-Alcott---Her-Life-Letters-and-Journals
 gutenberg_issued: '2011-11-18'
 gutenberg_type: Text
 identifiers:
