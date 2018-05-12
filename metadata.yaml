@@ -1,0 +1,45 @@
+_repo: Louisa-May-Alcott---Her-Life-Letters-and-Journals_38049
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38049-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, Louisa M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+  editor:
+    agent_name: Cheney, Ednah Dow
+    aliases:
+    - Cheney, Ednah Dow Littlehale
+    - Cheney, E. D. (Ednah Dow)
+    birthdate: 1824
+    deathdate: 1904
+    gutenberg_agent_id: '39220'
+    url: http://www.gutenberg.org/2009/agents/39220
+    wikipedia: http://en.wikipedia.org/wiki/Ednah_Dow_Littlehale_Cheney
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Alcott, Louisa May, 1832-1888'
+tableOfContents: Introduction -- Genealogy and parentage -- Childhood -- Fruitlands
+  -- The sentimental period -- Authorship -- The year of good luck -- "Hospital sketches"
+  -- Europe, and "Little women" -- Europe -- Family changes -- Last years -- Conclusion.
+title: 'Louisa May Alcott : Her Life, Letters, and Journals'
+url: http://www.gutenberg.org/ebooks/38049
